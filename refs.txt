@@ -1,0 +1,7 @@
+https://pypi.org/project/optbinning/
+https://towardsdatascience.com/developing-scorecards-in-python-using-optbinning-ab9a205e1f69
+https://ui.adsabs.harvard.edu/abs/2020arXiv200108025N/abstract
+http://gnpalencia.org/optbinning/
+
+Optimal binning: mathematical programming formulation. http://arxiv.org/abs/2001.08025
+Optimal counterfactual explanations for scorecard modelling. https://arxiv.org/abs/2104.08619
